@@ -3,20 +3,20 @@
     "password": "admin123",
     "role": "admin"
   },
-  "user1": {
-    "password": "user123",
+  "nasir": {
+    "password": "nasir123789",
     "role": "user"
   },
-  "user2": {
-    "password": "pass456",
+  "saad": {
+    "password": "saad123",
     "role": "user"
   },
-  "ali": {
-    "password": "ali123",
+  "hurairah": {
+    "password": "hurairah123",
     "role": "user"
   },
-  "fatima": {
-    "password": "fatima456",
+  "hamza": {
+    "password": "hamza123",
     "role": "user"
   }
 }
