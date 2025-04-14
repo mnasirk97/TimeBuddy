@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin"
+  },
+  "user1": {
+    "password": "user123",
+    "role": "user"
+  },
+  "user2": {
+    "password": "pass456",
+    "role": "user"
+  },
+  "ali": {
+    "password": "ali123",
+    "role": "user"
+  },
+  "fatima": {
+    "password": "fatima456",
+    "role": "user"
+  }
+}
